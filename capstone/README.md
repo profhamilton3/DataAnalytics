@@ -1,4 +1,4 @@
-# DataAnalytics
+# DataAnalytics: Capstone Readme
 
 I have drafted your capstone proposal in [Capstone Study: Board Game Public Datasets & Business Questions](https://docs.google.com/document/d/1uW4x0ZhO0Zkl-KXbhLtV_rSUQWmnGg5p800fPGmnJuk/edit?usp=drivesdk&ouid=105609114454019307452) with verified Kaggle links, dataset commentary, 15 decision-oriented business questions, and a cross-dataset synergy framework.
 
